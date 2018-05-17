@@ -1,0 +1,2 @@
+# muqin
+my first repository
